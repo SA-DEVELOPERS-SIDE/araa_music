@@ -1,5 +1,8 @@
 .env
 node_modules/
 serviceAccountKey.json
-cookies*.txt
+cookies.txt
+cookiesyt.txt
+movies_cleaned.json
+serviceAccountKey.json
 dist/
